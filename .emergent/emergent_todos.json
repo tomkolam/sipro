@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Pemulihan repo ke-7: restore dari GitHub, .env, deps, seed, baseline gate (17/21 PASS)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-1: Checklist Dokumen (US-39-3) — DocChecklist UI + derivasi konteks backend, dipasang di Lead & Customer",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-2: Gate audit_endpoint_sweep — resolver query nyata (3 route 400 → PASS)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-3: Gate forensic_audit — deteksi baca lewat modul engine + ENGINE_MANAGED (HIGH 2→0, MED 17→8)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-4: Gate audit_forms_deep — grup SSOT gl_account/doc_context/setting_origin + dropdown Akun GL",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-5: Gate ux_audit — pembeda baris data-testid di ProjectsPage",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-6: Bug dari pengujian — unggah gagal-senyap + 500 bukti kembar (sha256) diperbaiki",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-7: Gate baru verify_39b.py (ke-22) + uji-mutasi mutasi_39b.py 20/20",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-8: run_all_gates.sh = OVERALL PASS (22 gates) + poc_31..37 hijau pada DB tersegar",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 39b-9: Bukti browser US-39-1..5 (testing agent iterasi 58/59/60) + plan.md/test_result.md/docs V2 diperbarui",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 40: IA & Design System V2 (DataTable, halaman kanonik /leads/:id dll, navigasi 33→26) + gate verify_ia_v2.py",
+    "status": "pending"
+  }
+]
